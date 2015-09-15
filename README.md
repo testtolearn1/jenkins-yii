@@ -6,3 +6,5 @@ Copy files
 * phpunit.xml -> protected/tests/phpunit.xml
 * ExampleTest.php -> protected/tests/unit/ExampleTest.php
 * Test comment for jenkins jira integration
+
+* Test comment for jenkins jira integration Branch 1
